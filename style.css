@@ -19,7 +19,7 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    margin-top: -1.5%;
+    margin-top: -3%;
   }
   
   /* Change the color of links on hover */
@@ -38,4 +38,17 @@
     color: white;
     font-size: 15px;
     padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: .5%;
+
+  }
+
+  p{
+      padding-top: 5%;
+      text-align: center;
+  }
+
+  h2{
+    text-align: center;
+    padding-top: 3%;
   }
